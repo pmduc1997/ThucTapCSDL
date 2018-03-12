@@ -1,0 +1,12 @@
+﻿1. Xây dựng chương trình có kết nối đến CSDL.
+Quản lý theo phiên, người sử dụng đã login thành công thì mới hiện các menu chức năng
+==> Cần xây dựng và hoàn thiện form đăng nhập
+Đồng thời hoàn thiện tính năng log-out
+2. Có phân quyền người sử dụng (Bảng user có phân cho người sử dụng và nhóm nào; vói mỗi nhóm có các quyền tương ứng)
+Chia thành 3 nhóm: 
+i) read-only (chỉ truy cập tới tác vụ thống kê báo cáo, tìm kiếm;
+ii)Normol user (update các bảng tác vụ)
+iii) Admin (update được tất cả các bảng danh mục)
+Tính toán phương án kiểm soát truy cập các tính năng sau này (các form) dựa theo quyền của người sử dụng.
+==> Hoàn thiện form cập nhật người sử dụng và (nếu có) nhóm người sử dụng. (Lưu ý các options như gmail & có ảnh đại diện cho từng user)
+3. Hoàn thiện giao diện nhập liệu bảng đơn(có sử dụng proc trên Sql Server). (Bảng không liên quan đến bảng khác) 
