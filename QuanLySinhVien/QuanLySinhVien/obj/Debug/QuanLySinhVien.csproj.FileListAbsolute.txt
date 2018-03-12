@@ -9,3 +9,6 @@ C:\Users\DUC\Downloads\mta\Nam 3\Ky 2\TTCSDL\Tuan 5\QuanLySinhVien\QuanLySinhVie
 C:\Users\DUC\Downloads\mta\Nam 3\Ky 2\TTCSDL\Tuan 5\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
 C:\Users\DUC\Downloads\mta\Nam 3\Ky 2\TTCSDL\Tuan 5\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
 C:\Users\DUC\Downloads\mta\Nam 3\Ky 2\TTCSDL\Tuan 5\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.SinhVien.frmSinhVien.resources
+C:\Users\DUC\Downloads\mta\Nam 3\Ky 2\TTCSDL\QLSV\ThucTapCSDL\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+C:\Users\DUC\Downloads\mta\Nam 3\Ky 2\TTCSDL\QLSV\ThucTapCSDL\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\DUC\Downloads\mta\Nam 3\Ky 2\TTCSDL\QLSV\ThucTapCSDL\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb

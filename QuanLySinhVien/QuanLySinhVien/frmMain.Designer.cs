@@ -36,6 +36,7 @@
             this.lớpHọcToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.sinhViênToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.trợGiúpToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.điểmToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -46,6 +47,7 @@
             this.giáoViênToolStripMenuItem,
             this.lớpHọcToolStripMenuItem,
             this.sinhViênToolStripMenuItem,
+            this.điểmToolStripMenuItem,
             this.trợGiúpToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
@@ -102,6 +104,12 @@
             this.trợGiúpToolStripMenuItem.Size = new System.Drawing.Size(64, 20);
             this.trợGiúpToolStripMenuItem.Text = "Trợ giúp";
             // 
+            // điểmToolStripMenuItem
+            // 
+            this.điểmToolStripMenuItem.Name = "điểmToolStripMenuItem";
+            this.điểmToolStripMenuItem.Size = new System.Drawing.Size(47, 20);
+            this.điểmToolStripMenuItem.Text = "Điểm";
+            // 
             // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -130,5 +138,6 @@
         private System.Windows.Forms.ToolStripMenuItem lớpHọcToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem sinhViênToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem trợGiúpToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem điểmToolStripMenuItem;
     }
 }
