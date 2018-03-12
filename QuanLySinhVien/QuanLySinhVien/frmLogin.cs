@@ -25,7 +25,6 @@ namespace QuanLySinhVien
             con = new SqlConnection(cn);
             con.Open();
         }
-
         private string getID(string username, string pass)
         {
             string id = "";

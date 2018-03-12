@@ -116,7 +116,8 @@ namespace QuanLySinhVien
         {
             if (checkper("ADMIN") == true)
             {
-                MessageBox.Show("có quyền");
+                GiaoVien.frmGiaoVien frmgiaovien = new GiaoVien.frmGiaoVien();
+                frmgiaovien.ShowDialog();
             }
             else
             {
