@@ -10,17 +10,11 @@ using System.Windows.Forms;
 
 namespace QuanLySinhVien.GiaoVien
 {
-    public partial class frmGiaoVien : Form
+    public partial class frmThemGiaoVien : Form
     {
-        public frmGiaoVien()
+        public frmThemGiaoVien()
         {
             InitializeComponent();
-        }
-
-        private void btnThem_Click(object sender, EventArgs e)
-        {
-            frmThemGiaoVien frmthemgiaovien = new frmThemGiaoVien();
-            frmthemgiaovien.ShowDialog();
         }
     }
 }

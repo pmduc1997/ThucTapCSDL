@@ -8,19 +8,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace QuanLySinhVien.GiaoVien
+namespace QuanLySinhVien.KetQuaHocTap
 {
-    public partial class frmGiaoVien : Form
+    public partial class frmKetQuaHocTap : Form
     {
-        public frmGiaoVien()
+        public frmKetQuaHocTap()
         {
             InitializeComponent();
         }
 
-        private void btnThem_Click(object sender, EventArgs e)
+        private void frmKetQuaHocTap_Load(object sender, EventArgs e)
         {
-            frmThemGiaoVien frmthemgiaovien = new frmThemGiaoVien();
-            frmthemgiaovien.ShowDialog();
+
         }
     }
 }

@@ -121,7 +121,7 @@ namespace QuanLySinhVien
             }
             else
             {
-                MessageBox.Show("Bạn không có quyền");
+                giáoViênToolStripMenuItem.Enabled = false;
             }
         }
 

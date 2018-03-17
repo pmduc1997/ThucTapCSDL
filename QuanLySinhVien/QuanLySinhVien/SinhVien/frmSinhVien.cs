@@ -44,5 +44,11 @@ namespace QuanLySinhVien.SinhVien
         {
 
         }
+
+        private void btnThem_Click(object sender, EventArgs e)
+        {
+            frmThemSinhVien frmthemsinhvien = new frmThemSinhVien();
+            frmthemsinhvien.ShowDialog();
+        }
     }
 }

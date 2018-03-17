@@ -12,3 +12,15 @@ C:\Users\DUC\Downloads\mta\Nam 3\Ky 2\TTCSDL\Tuan 5\QuanLySinhVien\QuanLySinhVie
 C:\Users\DUC\Downloads\mta\Nam 3\Ky 2\TTCSDL\QLSV\ThucTapCSDL\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
 C:\Users\DUC\Downloads\mta\Nam 3\Ky 2\TTCSDL\QLSV\ThucTapCSDL\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
 C:\Users\DUC\Downloads\mta\Nam 3\Ky 2\TTCSDL\QLSV\ThucTapCSDL\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\Users\DUC\Downloads\mta\Nam 3\Ky 2\TTCSDL\QLSV\ThucTapCSDL\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\DUC\Downloads\mta\Nam 3\Ky 2\TTCSDL\QLSV\ThucTapCSDL\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Users\DUC\Downloads\mta\Nam 3\Ky 2\TTCSDL\QLSV\ThucTapCSDL\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojResolveAssemblyReference.cache
+C:\Users\DUC\Downloads\mta\Nam 3\Ky 2\TTCSDL\QLSV\ThucTapCSDL\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmLogin.resources
+C:\Users\DUC\Downloads\mta\Nam 3\Ky 2\TTCSDL\QLSV\ThucTapCSDL\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmMain.resources
+C:\Users\DUC\Downloads\mta\Nam 3\Ky 2\TTCSDL\QLSV\ThucTapCSDL\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GiaoVien.frmGiaoVien.resources
+C:\Users\DUC\Downloads\mta\Nam 3\Ky 2\TTCSDL\QLSV\ThucTapCSDL\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Users\DUC\Downloads\mta\Nam 3\Ky 2\TTCSDL\QLSV\ThucTapCSDL\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.SinhVien.frmSinhVien.resources
+C:\Users\DUC\Downloads\mta\Nam 3\Ky 2\TTCSDL\QLSV\ThucTapCSDL\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+C:\Users\DUC\Downloads\mta\Nam 3\Ky 2\TTCSDL\QLSV\ThucTapCSDL\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.GiaoVien.frmThemGiaoVien.resources
+C:\Users\DUC\Downloads\mta\Nam 3\Ky 2\TTCSDL\QLSV\ThucTapCSDL\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.SinhVien.frmThemSinhVien.resources
+C:\Users\DUC\Downloads\mta\Nam 3\Ky 2\TTCSDL\QLSV\ThucTapCSDL\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.KetQuaHocTap.frmKetQuaHocTap.resources
