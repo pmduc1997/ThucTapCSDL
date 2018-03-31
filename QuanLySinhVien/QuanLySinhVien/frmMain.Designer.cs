@@ -103,6 +103,7 @@
             this.điểmToolStripMenuItem.Name = "điểmToolStripMenuItem";
             this.điểmToolStripMenuItem.Size = new System.Drawing.Size(102, 20);
             this.điểmToolStripMenuItem.Text = "Kết quả học tập";
+            this.điểmToolStripMenuItem.Click += new System.EventHandler(this.điểmToolStripMenuItem_Click);
             // 
             // trợGiúpToolStripMenuItem
             // 

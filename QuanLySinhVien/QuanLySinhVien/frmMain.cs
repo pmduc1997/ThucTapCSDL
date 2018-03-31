@@ -130,5 +130,11 @@ namespace QuanLySinhVien
             SinhVien.frmSinhVien frmsinhvien = new SinhVien.frmSinhVien();
             frmsinhvien.ShowDialog();
         }
+
+        private void điểmToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            KetQuaHocTap.frmKetQuaHocTap frmketquahoctap = new KetQuaHocTap.frmKetQuaHocTap();
+            frmketquahoctap.ShowDialog();
+        }
     }
 }
